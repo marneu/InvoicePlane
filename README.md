@@ -21,6 +21,7 @@ _A libre self-hosted web application designed to help you manage invoices, clien
 
 </div>
 
+THIS VERSION cloned from InvoicePlane/InvoicePlane on 2026-04-01
 ---
 
 ## What's New in Version 1.7.0
